@@ -8,7 +8,7 @@
 body{
     font-family: Azeret Mono;
 }
-.head{
+.head{ 
     display: flex;
     color: black;
     margin: 0 auto;
